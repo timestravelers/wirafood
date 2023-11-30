@@ -1336,8 +1336,8 @@ $(document).ready(function (_0x3d8067) {
     });
 });
 $(document).ready(function () {
-    if ($('#credit,.credit').attr('href') != 'https://ziilstudio.com') {
-        window.location.href = 'https://ziilstudio.com';
+    if ($('#credit,.credit').attr('href') != 'https://multikreatifoptima.site') {
+        window.location.href = 'https://multikreatifoptima.site';
     }
 });
 var arr_pembayaran = tw_payment;
