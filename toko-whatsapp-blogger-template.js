@@ -1,6 +1,6 @@
 var baSe64 = 'VreusHT8fVOusv==';
 var baSe6A = 'aKO8dKR2En02aVepd7O9MJecErTcsI==';
-var informasibatas = '<style>body{background:#000}#peringatan span{font-size:50px}#peringatan{z-index:99999;position:fixed;top:0;right:0;left:0;height:100%;text-align:center;background:rgba(0, 0, 0, 0.95);border:5px solid #444;color:#fff;padding:20px;font-family:monospace;border-radius:10px}#peringatan h4{font-size:20px}</style><div id=\"peringatan\"><h4>Activate Templates</h4><p>Untuk mendapatkan lisensi Anda bisa menghubungi Admin ziilstudio.com</p><span id=\"batas-waktu-template\">10</span></div>';
+var informasibatas = '<style>body{background:#000}#peringatan span{font-size:50px}#peringatan{z-index:99999;position:fixed;top:0;right:0;left:0;height:100%;text-align:center;background:rgba(0, 0, 0, 0.95);border:5px solid #444;color:#fff;padding:20px;font-family:monospace;border-radius:10px}#peringatan h4{font-size:20px}</style><div id=\"peringatan\"><h4>Activate Templates</h4><p>Untuk mendapatkan lisensi Anda bisa menghubungi Admin Multi Kreatif Optima</p><span id=\"batas-waktu-template\">10</span></div>';
 var JSON;
 ! function (_0x393208, _0x390d44) {
     var _0x61fb99 = typeof {},
