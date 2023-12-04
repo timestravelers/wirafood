@@ -1336,7 +1336,7 @@ $(document).ready(function (_0x3d8067) {
     });
 });
 $(document).ready(function () {
-    if ($('#credit,.credit').attr('href') != 'https://multikreatifoptima.site') {
+    if ($('#credit,.credit').attr('href') != '/') {
         window.location.href = '/';
     }
 });
