@@ -189,7 +189,7 @@ var JSON;
                 _0x45e229 = {
                     'checkout': {
                         'type': 'Email',
-                        'email': 'zainuriazid@gmail.com'
+                        'email': 'sanggadhaya@gmail.com'
                     },
                     'currency': 'IDR',
                     'language': 'Indonesia',
