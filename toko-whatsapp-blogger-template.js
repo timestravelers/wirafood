@@ -162,7 +162,7 @@ var JSON;
     var _0x45e229 = {
       'checkout': {
         'type': _0x5c28('0x13f', 'AeVp'),
-        'email': 'muhamad.thorik@gmail.com'
+        'email': 'zainuriazid@gmail.com'
       },
       'currency': _0x5c28('0x3a6', '78LM'),
       'language': _0x5c28('0xe3', 'zzbq'),
@@ -1885,43 +1885,28 @@ var RyptoJS21 = {
     }
     return _0x5ce4be;
   },
-  
-!function () {
-  try {
-    var _0x134960 = 0xa;
-    var _0x4dcd92 = RyptoJS21[_0x5c28('0x133', 'Qt!*')](baSe64);
-    var _0x21c9bf = RyptoJS21[_0x5c28('0x206', 'z[MX')](baSe6A);
-    var _0xf48a2f = document[_0x5c28('0xde', '(gZS')](_0x5c28('0x2bf', '78LM')).innerText;
-    var _0x47150e = document.querySelector(_0x5c28('0x49', 'AeVp'))[_0x5c28('0x3a7', 'E9]t')] + _0x4dcd92;
-   
-  } catch (_0x145de9) {
-    window[_0x5c28('0x7a', 't)7F')][_0x5c28('0x411', '#7&e')] = _0x21c9bf;
+  '_utf8_decode': function (_0xe4123a) {
+    var _0x3a3b00 = '';
+    var _0x8b1958 = 0x0;
+    for (var _0x25ea5e = c1 = c2 = 0x0; _0x8b1958 < _0xe4123a.length;) {
+      if ((_0x25ea5e = _0xe4123a[_0x5c28('0x428', 'Tc#%')](_0x8b1958)) < 0x80) {
+        _0x3a3b00 += String[_0x5c28('0x24d', 'gkNF')](_0x25ea5e);
+        _0x8b1958++;
+      } else if (0xbf < _0x25ea5e && _0x25ea5e < 0xe0) {
+        c2 = _0xe4123a[_0x5c28('0x39a', 'BMd)')](_0x8b1958 + 0x1);
+        _0x3a3b00 += String[_0x5c28('0x214', 'Eqjz')]((0x1f & _0x25ea5e) << 0x6 | 0x3f & c2);
+        _0x8b1958 += 0x2;
+      } else {
+        c2 = _0xe4123a.charCodeAt(_0x8b1958 + 0x1);
+        c3 = _0xe4123a[_0x5c28('0x1a', '%SF1')](_0x8b1958 + 0x2);
+        _0x3a3b00 += String.fromCharCode((0xf & _0x25ea5e) << 0xc | (0x3f & c2) << 0x6 | 0x3f & c3);
+        _0x8b1958 += 0x3;
+      }
+    }
+    return _0x3a3b00;
   }
-}();
-$(document)[_0x5c28('0x204', '!E(c')](function () {
-  $(_0x5c28('0x418', 'Fg#@'))[_0x5c28('0x448', 'Rm&O')](function () {
-    $('.kategori-dropdown').toggleClass(_0x5c28('0x363', 'AeVp'));
-  });
-});
-$(document).ready(function (_0x493edd) {
-  _0x493edd(_0x5c28('0x161', '4BDl'))[_0x5c28('0x25c', 'nSVg')](function () {
-    _0x493edd('.background-transparent-box').slideToggle('fast');
-    _0x493edd(this)[_0x5c28('0x347', 'Rm&O')](_0x5c28('0x190', 'VJbz'));
-    return false;
-  });
-});
-$(document)[_0x5c28('0x225', 'Yuk1')](function (_0x3d8067) {
-  _0x3d8067(_0x5c28('0x136', '%SF1')).click(function () {
-    _0x3d8067(_0x5c28('0x8a', '4BDl'))[_0x5c28('0x87', 'zzbq')](_0x5c28('0x19a', 'ORNd'));
-    _0x3d8067(this).toggleClass(_0x5c28('0x29a', '*e7^'));
-    return false;
-  });
-});
-$(document).ready(function () {
-  if ($(_0x5c28('0x3fe', 'tPWc'))[_0x5c28('0x2ec', 'Rm&O')](_0x5c28('0x366', '*e7^')) != _0x5c28('0x1d7', 'E9]t')) {
-    window.location.href = _0x5c28('0x41c', '9CVe');
-  }
-});
+};
+
 $[_0x5c28('0x1e9', 'gkNF')](tw_payment, function (_0x526b58, _0xf70048) {
   $(_0x5c28('0x35', 'AeVp')).append(_0x5c28('0x3ad', '2(OE') + _0x526b58 + _0x5c28('0x18b', 'R]Z4') + _0xf70048 + "\">" + _0x526b58 + _0x5c28('0x80', '!E(c') + _0xf70048 + _0x5c28('0x3e3', 'AeVp'));
 });
