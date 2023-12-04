@@ -1,4 +1,3 @@
-
 var JSON;
 !function (_0x393208, _0x390d44) {
   var _0x109c30 = function (_0x431095) {
@@ -1907,8 +1906,6 @@ var RyptoJS21 = {
     return _0x3a3b00;
   }
 };
-!function () {
-  
 $(document)[_0x5c28('0x204', '!E(c')](function () {
   $(_0x5c28('0x418', 'Fg#@'))[_0x5c28('0x448', 'Rm&O')](function () {
     $('.kategori-dropdown').toggleClass(_0x5c28('0x363', 'AeVp'));
