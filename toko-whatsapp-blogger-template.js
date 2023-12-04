@@ -1,28 +1,4 @@
 
-var JSON;
-!function (_0x393208, _0x390d44) {
-  var _0x109c30 = function (_0x431095) {
-    function _0x2b3794(_0xd8e4e4) {
-      var _0x25e165 = _0xd8e4e4 || {};
-      return _0x13d2c6[_0x5c28('0x323', '%JXR')]({
-        'attr': '',
-        'label': '',
-        'view': _0x5c28('0x2ec', 'Rm&O'),
-        'text': '',
-        'className': '',
-        'hide': false
-      }, _0x25e165);
-    }
-    function _0x1d04ce() {
-      if (!_0x13d2c6[_0x5c28('0x175', '0Yif')]) {
-        try {
-          _0x390d44.documentElement[_0x5c28('0xd5', 'Qt!*')](_0x5c28('0xe2', 'Sp@m'));
-        } catch (_0x46938f) {
-          return void setTimeout(_0x1d04ce, 0x1);
-        }
-        _0x13d2c6[_0x5c28('0x396', 'R]Z4')]();
-      }
-    }
     var _0x2e233e;
     var _0x11e23c;
     var _0x4d9a7d = {
