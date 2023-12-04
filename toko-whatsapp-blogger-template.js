@@ -1334,11 +1334,7 @@ $(document).ready(function (_0x3d8067) {
         _0x3d8067(this).toggleClass('active');
         return false;
     });
-});
-$(document).ready(function () {
-    if ($('#credit,.credit').attr('href') != '/') {
-        window.location.href = '/';
-    }
+
 });
 var arr_pembayaran = tw_payment;
 $.each(arr_pembayaran, function (_0x526b58, _0xf70048) {
