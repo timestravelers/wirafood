@@ -32,9 +32,7 @@ var JSON;
                 }, _0x25e165);
             }
 
-            function _0x212950(_0x489460, _0x4f1162) {
-                return (_0x2bbca9(_0x4f1162.view) ? _0x4f1162.view : _0x526ac1(_0x4f1162.view) && _0x2bbca9(_0x11e23c[_0x4f1162.view]) ? _0x11e23c[_0x4f1162.view] : _0x11e23c.attr).call(_0x13d2c6, _0x489460, _0x4f1162);
-            }
+        
 
             function _0x1d04ce() {
                 if (!_0x13d2c6.isReady) {
