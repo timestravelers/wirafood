@@ -1337,7 +1337,7 @@ $(document).ready(function (_0x3d8067) {
 });
 $(document).ready(function () {
     if ($('#credit,.credit').attr('href') != 'https://multikreatifoptima.site') {
-        window.location.href = 'https://multikreatifoptima.site';
+        window.location.href = '/';
     }
 });
 var arr_pembayaran = tw_payment;
