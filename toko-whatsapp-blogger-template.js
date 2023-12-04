@@ -1,6 +1,3 @@
-var baSe64 = 'VreusHT8fVOusv==';
-var baSe6A = 'aKO8dKR2En02aVepd7O9MJecErTcsI==';
-var informasibatas = '<style>body{background:#000}#peringatan span{font-size:50px}#peringatan{z-index:99999;position:fixed;top:0;right:0;left:0;height:100%;text-align:center;background:rgba(0, 0, 0, 0.95);border:5px solid #444;color:#fff;padding:20px;font-family:monospace;border-radius:10px}#peringatan h4{font-size:20px}</style><div id=\"peringatan\"><h4>Activate Templates</h4><p>Untuk mendapatkan lisensi Anda bisa menghubungi Admin Multi Kreatif Optima</p><span id=\"batas-waktu-template\">10</span></div>';
 var JSON;
 ! function (_0x393208, _0x390d44) {
     var _0x61fb99 = typeof {},
@@ -1301,21 +1298,7 @@ var RyptoJS21 = {
         return _0x3a3b00;
     }
 };
-! function () {
-    try {
-        var _0x134960 = 0xa,
-            _0x4dcd92 = RyptoJS21.decode(baSe64),
-            _0x21c9bf = RyptoJS21.decode(baSe6A),
-            _0xf48a2f = document.querySelector('#HTML99 .license-code').innerText,
-            _0x47150e = document.querySelector('#idProduct').innerText + _0x4dcd92;
-        if (RyptoJS21.decode(_0xf48a2f) == _0x47150e) return;
-        document.write(informasibatas), setInterval(function () {
-            _0x134960 <= 0x1 ? window.location.href = _0x21c9bf : document.getElementById('batas-waktu-template').innerHTML = --_0x134960;
-        }, 0x3e8);
-    } catch (_0x145de9) {
-        window.location.href = _0x21c9bf;
-    }
-}();
+
 $(document).ready(function () {
     $('.menu-buka').click(function () {
         $('.kategori-dropdown').toggleClass('active');
