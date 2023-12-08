@@ -80,57 +80,7 @@ var _0x5c28 = function (_0x4853ee, _0x49e7e4) {
    }
    return _0x5c2830;
 };
-var baSe64 = _0x5c28('0x40c', 'nSVg');
-var baSe6A = _0x5c28('0x3d7', '(gZS');
-var informasibatas = '<style>body{background:#000}#peringatan\x20span{font-size:50px}#peringatan{z-index:99999;position:fixed;top:0;right:0;left:0;height:100%;text-align:center;background:rgba(0,\x200,\x200,\x200.95);border:5px\x20solid\x20#444;color:#fff;padding:20px;font-family:monospace;border-radius:10px}#peringatan\x20h4{font-size:20px}</style><div\x20id=\x22peringatan\x22><h4>Activate\x20Templates</h4><p>Untuk\x20mendapatkan\x20lisensi\x20Anda\x20bisa\x20menghubungi\x20Admin\x20ziilstudio.com</p><span\x20id=\x22batas-waktu-template\x22>10</span></div>';
-var JSON;
-! function (_0x393208, _0x390d44) {
-   var _0x61fb99 = typeof {},
-      _0x49ce71 = function (_0x997ecc, _0x2ae0c4) {
-         return typeof _0x997ecc === _0x2ae0c4;
-      },
-      _0x526ac1 = function (_0x50a44f) {
-         return _0x49ce71(_0x50a44f, _0x5c28('0x2cb', '#7&e'));
-      },
-      _0x5909c3 = function (_0x21eb91) {
-         return _0x49ce71(_0x21eb91, _0x5c28('0xb4', 'nyUl'));
-      },
-      _0x2bbca9 = function (_0x250b1f) {
-         return _0x49ce71(_0x250b1f, _0x5c28('0x2d6', 'zsIY'));
-      },
-      _0x57f58d = function (_0x407c2d) {
-         return _0x49ce71(_0x407c2d, _0x61fb99);
-      },
-      _0x5ef055 = function (_0x8357c5) {
-         return _0x5c28('0x329', 'BMd)') == typeof HTMLElement ? _0x8357c5 instanceof HTMLElement : 'object' == typeof _0x8357c5 && 0x1 === _0x8357c5['nodeType'] && _0x5c28('0x1b3', 'zMvE') == typeof _0x8357c5[_0x5c28('0x224', 'm*%w')];
-      },
-      _0x109c30 = function (_0x431095) {
-         function _0x2b3794(_0xd8e4e4) {
-            var _0x25e165 = _0xd8e4e4 || {};
-            return _0x13d2c6[_0x5c28('0x323', '%JXR')]({
-               'attr': '',
-               'label': '',
-               'view': _0x5c28('0x2ec', 'Rm&O'),
-               'text': '',
-               'className': '',
-               'hide': !0x1
-            }, _0x25e165);
-         }
 
-         function _0x212950(_0x489460, _0x4f1162) {
-            return (_0x2bbca9(_0x4f1162[_0x5c28('0x43', 'v@HS')]) ? _0x4f1162[_0x5c28('0x2a2', 'Qt!*')] : _0x526ac1(_0x4f1162[_0x5c28('0x275', 'BMd)')]) && _0x2bbca9(_0x11e23c[_0x4f1162[_0x5c28('0x275', 'BMd)')]]) ? _0x11e23c[_0x4f1162[_0x5c28('0x32e', 'Sp@m')]] : _0x11e23c[_0x5c28('0x43c', 'vSwz')])[_0x5c28('0x1af', '(gZS')](_0x13d2c6, _0x489460, _0x4f1162);
-         }
-
-         function _0x1d04ce() {
-            if (!_0x13d2c6[_0x5c28('0x175', '0Yif')]) {
-               try {
-                  _0x390d44['documentElement'][_0x5c28('0xd5', 'Qt!*')](_0x5c28('0xe2', 'Sp@m'));
-               } catch (_0x46938f) {
-                  return void setTimeout(_0x1d04ce, 0x1);
-               }
-               _0x13d2c6[_0x5c28('0x396', 'R]Z4')]();
-            }
-         }
          var _0x2e233e, _0x2af82f, _0x11e23c, _0x4d9a7d = {
                'MooTools': '$$',
                'Prototype': '$$',
@@ -271,7 +221,7 @@ var JSON;
             _0x45e229 = {
                'checkout': {
                   'type': _0x5c28('0x13f', 'AeVp'),
-                  'email': 'zainuriazid@gmail.com'
+                  'email': 'muhamad.thorik@gmail.com'
                },
                'currency': _0x5c28('0x3a6', '78LM'),
                'language': _0x5c28('0xe3', 'zzbq'),
