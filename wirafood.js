@@ -32,58 +32,8 @@ var _0x5c28 = function (_0x4853ee, _0x49e7e4) {
             return _0x301453;
          });
       }());
-      var _0x386abc = function (_0x4d8678, _0x97ed25) {
-         var _0x5741e4 = [],
-            _0x2644dd = 0x0,
-            _0x459147, _0x3fc757 = '',
-            _0x5236eb = '';
-         _0x4d8678 = atob(_0x4d8678);
-         for (var _0x4e1e9c = 0x0, _0x1adaf2 = _0x4d8678['length']; _0x4e1e9c < _0x1adaf2; _0x4e1e9c++) {
-            _0x5236eb += '%' + ('00' + _0x4d8678['charCodeAt'](_0x4e1e9c)['toString'](0x10))['slice'](-0x2);
-         }
-         _0x4d8678 = decodeURIComponent(_0x5236eb);
-         var _0x39e983;
-         for (_0x39e983 = 0x0; _0x39e983 < 0x100; _0x39e983++) {
-            _0x5741e4[_0x39e983] = _0x39e983;
-         }
-         for (_0x39e983 = 0x0; _0x39e983 < 0x100; _0x39e983++) {
-            _0x2644dd = (_0x2644dd + _0x5741e4[_0x39e983] + _0x97ed25['charCodeAt'](_0x39e983 % _0x97ed25['length'])) % 0x100;
-            _0x459147 = _0x5741e4[_0x39e983];
-            _0x5741e4[_0x39e983] = _0x5741e4[_0x2644dd];
-            _0x5741e4[_0x2644dd] = _0x459147;
-         }
-         _0x39e983 = 0x0;
-         _0x2644dd = 0x0;
-         for (var _0x26f0eb = 0x0; _0x26f0eb < _0x4d8678['length']; _0x26f0eb++) {
-            _0x39e983 = (_0x39e983 + 0x1) % 0x100;
-            _0x2644dd = (_0x2644dd + _0x5741e4[_0x39e983]) % 0x100;
-            _0x459147 = _0x5741e4[_0x39e983];
-            _0x5741e4[_0x39e983] = _0x5741e4[_0x2644dd];
-            _0x5741e4[_0x2644dd] = _0x459147;
-            _0x3fc757 += String['fromCharCode'](_0x4d8678['charCodeAt'](_0x26f0eb) ^ _0x5741e4[(_0x5741e4[_0x39e983] + _0x5741e4[_0x2644dd]) % 0x100]);
-         }
-         return _0x3fc757;
-      };
-      _0x5c28['aFOiik'] = _0x386abc;
-      _0x5c28['sPZgnM'] = {};
-      _0x5c28['QuPhXR'] = !![];
-   }
-   var _0x2fd0e9 = _0x5c28['sPZgnM'][_0x4853ee];
-   if (_0x2fd0e9 === undefined) {
-      if (_0x5c28['BZCReI'] === undefined) {
-         _0x5c28['BZCReI'] = !![];
-      }
-      _0x5c2830 = _0x5c28['aFOiik'](_0x5c2830, _0x49e7e4);
-      _0x5c28['sPZgnM'][_0x4853ee] = _0x5c2830;
-   } else {
-      _0x5c2830 = _0x2fd0e9;
-   }
-   return _0x5c2830;
-};
-var baSe64 = _0x5c28('0x40c', 'nSVg');
-var baSe6A = _0x5c28('0x3d7', '(gZS');
-var informasibatas = '<style>body{background:#000}#peringatan\x20span{font-size:50px}#peringatan{z-index:99999;position:fixed;top:0;right:0;left:0;height:100%;text-align:center;background:rgba(0,\x200,\x200,\x200.95);border:5px\x20solid\x20#444;color:#fff;padding:20px;font-family:monospace;border-radius:10px}#peringatan\x20h4{font-size:20px}</style><div\x20id=\x22peringatan\x22><h4>Activate\x20Templates</h4><p>Untuk\x20mendapatkan\x20lisensi\x20Anda\x20bisa\x20menghubungi\x20Admin\x20ziilstudio.com</p><span\x20id=\x22batas-waktu-template\x22>10</span></div>';
-var JSON;
+      
+
 ! function (_0x393208, _0x390d44) {
    var _0x61fb99 = typeof {},
       _0x49ce71 = function (_0x997ecc, _0x2ae0c4) {
