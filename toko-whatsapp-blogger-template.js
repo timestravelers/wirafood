@@ -1,7 +1,3 @@
-
-var baSe64 = _0x5c28('0x40c', 'nSVg');
-var baSe6A = _0x5c28('0x3d7', '(gZS');
-var informasibatas = '<style>body{background:#000}#peringatan\x20span{font-size:50px}#peringatan{z-index:99999;position:fixed;top:0;right:0;left:0;height:100%;text-align:center;background:rgba(0,\x200,\x200,\x200.95);border:5px\x20solid\x20#444;color:#fff;padding:20px;font-family:monospace;border-radius:10px}#peringatan\x20h4{font-size:20px}</style><div\x20id=\x22peringatan\x22><h4>Activate\x20Templates</h4><p>Untuk\x20mendapatkan\x20lisensi\x20Anda\x20bisa\x20menghubungi\x20Admin\x20ziilstudio.com</p><span\x20id=\x22batas-waktu-template\x22>10</span></div>';
 var JSON;
 ! function (_0x393208, _0x390d44) {
    var _0x61fb99 = typeof {},
@@ -1302,21 +1298,7 @@ var RyptoJS21 = {
       return _0x3a3b00;
    }
 };
-! function () {
-   try {
-      var _0x134960 = 0xa,
-         _0x4dcd92 = RyptoJS21[_0x5c28('0x133', 'Qt!*')](baSe64),
-         _0x21c9bf = RyptoJS21[_0x5c28('0x206', 'z[MX')](baSe6A),
-         _0xf48a2f = document[_0x5c28('0xde', '(gZS')](_0x5c28('0x2bf', '78LM'))['innerText'],
-         _0x47150e = document['querySelector'](_0x5c28('0x49', 'AeVp'))[_0x5c28('0x3a7', 'E9]t')] + _0x4dcd92;
-      if (RyptoJS21[_0x5c28('0xf2', 'nyUl')](_0xf48a2f) == _0x47150e) return;
-      document[_0x5c28('0x1db', 'zsIY')](informasibatas), setInterval(function () {
-         _0x134960 <= 0x1 ? window[_0x5c28('0x3fd', '2(OE')][_0x5c28('0x421', 'Qt!*')] = _0x21c9bf : document[_0x5c28('0x382', 'fnY&')](_0x5c28('0x3c0', '78LM'))[_0x5c28('0x1cc', 'HLQi')] = --_0x134960;
-      }, 0x3e8);
-   } catch (_0x145de9) {
-      window[_0x5c28('0x7a', 't)7F')][_0x5c28('0x411', '#7&e')] = _0x21c9bf;
-   }
-}();
+
 $(document)[_0x5c28('0x204', '!E(c')](function () {
    $(_0x5c28('0x418', 'Fg#@'))[_0x5c28('0x448', 'Rm&O')](function () {
       $('.kategori-dropdown')['toggleClass'](_0x5c28('0x363', 'AeVp'));
